@@ -142,6 +142,8 @@ class OTPPage extends StatelessWidget {
         onChanged: (text) {
           if (text.length == 1) {
             FocusScope.of(context).nextFocus();
+            
+
           }
         },
       ),

@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
             title: const Center(
               child: Text(
                 'Log in',
+                
                 style: TextStyle(
                   color: Colors.black,
                   fontWeight: FontWeight.bold,
