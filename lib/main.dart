@@ -19,8 +19,7 @@ class MyApp extends StatelessWidget {
             elevation: 0,
             title: const Center(
               child: Text(
-                'Log in',
-                
+                'Log in Atul',
                 style: TextStyle(
                   color: Colors.black,
                   fontWeight: FontWeight.bold,
@@ -29,7 +28,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
           ),
-          body:  Log_in(),
+          body: Log_in(),
         ),
       ),
     );
